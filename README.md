@@ -6,7 +6,7 @@ This folder has a R script that will generate a DCC Garch model from historical 
 
 F. Engle, Robert. (2002). Dynamic Conditional Correlation: A Simple Class of Multivariate Generalized Autoregressive Conditional Heteroskedasticity Models. Journal of Business & Economic Statistics. 20. 339-50. 
 
-#Signals
+# Signals
 This folder will hold any signals / strategies that I replicate from literature. It's likely I am also working on others that I don't share here. If you are interested in more of my signals and strategies, contact me to discuss.
 In this folder are
 * **ConnorsRSIPullback:** This is a mean reversion strategy that combines a short term RSI with other indicators to identify a pullback and ride the reversion to the mean.
