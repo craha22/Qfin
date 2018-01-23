@@ -10,3 +10,6 @@ F. Engle, Robert. (2002). Dynamic Conditional Correlation: A Simple Class of Mul
 This folder will hold any signals / strategies that I replicate from literature. It's likely I am also working on others that I don't share here. If you are interested in more of my signals and strategies, contact me to discuss.
 In this folder are
 * **ConnorsRSIPullback:** This is a mean reversion strategy that combines a short term RSI with other indicators to identify a pullback and ride the reversion to the mean.
+
+# CovMatNet
+This folder will hold a model I am creating. This model will use a deep recurrent network to forecast a covariance matrix for a selection of assets. This model is written in R and uses the Keras framework. 
